@@ -1,0 +1,30 @@
+#include<stdlib.h>
+#include"print01.h"
+#include"print02.h"
+#include"print03.h"
+#include"print04.h"
+#include"print05.h"
+#include"print06.h"
+#include"print07.h"
+#include"print08.h"
+#include"print09.h"
+#include"print10.h"
+#include"print11.h"
+#include"print12.h"
+
+int main()
+{
+    print01();
+    print02();
+    print03();
+    print04();
+    print05();
+    print06();
+    print07();
+    print08();
+    print09();
+    print10();
+    print11();
+    print12();
+    system("pause>0");
+}

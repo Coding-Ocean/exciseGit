@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="print01.cpp" />
+    <ClCompile Include="print02.cpp" />
+    <ClCompile Include="print03.cpp" />
+    <ClCompile Include="print04.cpp" />
+    <ClCompile Include="print05.cpp" />
+    <ClCompile Include="print06.cpp" />
+    <ClCompile Include="print07.cpp" />
+    <ClCompile Include="print08.cpp" />
+    <ClCompile Include="print09.cpp" />
+    <ClCompile Include="print10.cpp" />
+    <ClCompile Include="print11.cpp" />
+    <ClCompile Include="print12.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="print01.h" />
+    <ClInclude Include="print02.h" />
+    <ClInclude Include="print03.h" />
+    <ClInclude Include="print04.h" />
+    <ClInclude Include="print05.h" />
+    <ClInclude Include="print06.h" />
+    <ClInclude Include="print07.h" />
+    <ClInclude Include="print08.h" />
+    <ClInclude Include="print09.h" />
+    <ClInclude Include="print10.h" />
+    <ClInclude Include="print11.h" />
+    <ClInclude Include="print12.h" />
+  </ItemGroup>
+</Project>
